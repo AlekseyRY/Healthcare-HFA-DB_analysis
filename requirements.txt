@@ -1,0 +1,10 @@
+matplotlib==3.6.3
+numpy==1.23.5
+pandas==1.5.2
+ru-core-news-md @ https://github.com/explosion/spacy-models/releases/download/ru_core_news_md-3.5.0/ru_core_news_md-3.5.0-py3-none-any.whl#sha256=446d6667f7f178bb3100d3af66574fda4da86dd5732239f044dde8182e3dd4ad
+scikit-learn==1.2.2
+scipy==1.10.0
+sklearn==0.0.post1
+spacy==3.5.2
+statsmodels==0.14.0
+streamlit==1.26.0
